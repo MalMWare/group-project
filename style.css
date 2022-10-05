@@ -50,5 +50,9 @@ main h2 {
     color: white;
 }
 
-h2 {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;} 
+h2 {
+    font-family: Arial, Helvetica, sans-serif
+    
+} 
+    
 
